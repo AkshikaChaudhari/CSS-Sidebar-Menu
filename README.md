@@ -31,6 +31,11 @@ The menu includes:
 - No JavaScript used
 - Clean and simple UI
 
+---
+
+## 🖼️ Project Preview
+
+![Project Screenshot](SidebarMenu.png)
 
 
 ---
